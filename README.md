@@ -1,6 +1,6 @@
 # Get_next_line-42
 
-hello guys!
+hello!
 
 Something you should know before start in this project :
 
